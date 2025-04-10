@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Environment variables
+.env
+.env.*
+
+
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+
+*.csv
+*.tsv
+*.json
+*.zip
+*.gz
+*.xlsx
+
+
+data/
+
+
+dist/
+build/
+*.egg-info/
+
